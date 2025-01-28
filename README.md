@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github.com/IgorGMendonca/IgniteQuiz/blob/master/Capa.png" alt="capa"/>
+    <img align="center" src="https://github.com/IgorGMendonca/IgniteQuiz/blob/master/assets/capa.png" alt="capa"/>
 </p>
 
 <br>
