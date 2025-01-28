@@ -1,3 +1,5 @@
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
+
 import { StatusBar } from 'react-native';
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto';
 
@@ -14,13 +16,13 @@ export default function App() {
   }
 
   return (
-    <>
+    <GestureHandlerRootView>
       <StatusBar
         barStyle="light-content"
         backgroundColor="transparent"
         translucent
       />
       <Routes />
-    </>
+    </GestureHandlerRootView>
   );
 }
