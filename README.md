@@ -1,38 +1,33 @@
+<h1 align="center"> Ignite Quiz </h1>
+
 <p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
+ Rocket Quiz é um aplicação de perguntas e respostas. Implementado com animações, micro interações, feedbacks tanto visuais quanto táteis e sonoros. <br/>
+ Utilização de bibliotecas como o Skia para criar elementos e animar os mesmos e aprender a criar animações na Thread de interface do usuário com o Reanimated.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+    <img align="center" src="https://github.com/IgorGMendonca/IgniteQuiz/blob/master/Capa.png" alt="capa"/>
+</p>
 
-## 💻 Projeto
+<br>
 
-ignitequiz_template
+## 🚀 Tecnologias
 
-## 📝 Licença
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+- React Native
+- TypeScript
+- Styled Component
+- Expo
+- Skia
+- Reanimated
 
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
 
 
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
 
